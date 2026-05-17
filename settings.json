@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "ProyectadosLandxd.aternos.me",
+    "port": 37785,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "Hasta cuando no",
+        "Aca no",
+        "Y esa onda"
       ]
     },
     "chat-log": true,
